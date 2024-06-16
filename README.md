@@ -18,7 +18,7 @@
 *   Автоматизация процессов через Airflow
 ---
 Контакты
-* 📞 +7-964-729-41-14
+* 📞 +7-964-729-41-15
 * 📲 [Telegram](https://t.me/anastasiachud)
 * ✉ [nastyach200210@gmail.com](mailto:nastyach200210@gmail.com)
 * ✉ [chunai6@mail.ru](mailto:chunai6@mail.ru) 
